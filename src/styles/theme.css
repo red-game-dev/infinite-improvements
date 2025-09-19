@@ -1,0 +1,80 @@
+/* Gaming-focused WCAG AAA Compliant Color System using OKLCH */
+@theme {
+  /* Primary - Gaming Electric Blue (WCAG AAA Compliant) */
+  --color-primary-50: oklch(0.98 0.008 240);
+  --color-primary-100: oklch(0.95 0.020 240);
+  --color-primary-200: oklch(0.90 0.040 240);
+  --color-primary-300: oklch(0.82 0.065 240);
+  --color-primary-400: oklch(0.72 0.095 240);
+  --color-primary-500: oklch(0.65 0.120 240);
+  --color-primary-600: oklch(0.58 0.140 240);
+  --color-primary-700: oklch(0.50 0.135 240);
+  --color-primary-800: oklch(0.42 0.120 240);
+  --color-primary-900: oklch(0.35 0.100 240);
+  --color-primary-950: oklch(0.25 0.075 240);
+
+  /* Secondary - Warm Gaming Slate (Less sad, more atmospheric) */
+  --color-secondary-50: oklch(0.98 0.006 220);
+  --color-secondary-100: oklch(0.95 0.012 220);
+  --color-secondary-200: oklch(0.90 0.018 220);
+  --color-secondary-300: oklch(0.82 0.024 220);
+  --color-secondary-400: oklch(0.70 0.030 220);
+  --color-secondary-500: oklch(0.58 0.025 220);
+  --color-secondary-600: oklch(0.48 0.020 220);
+  --color-secondary-700: oklch(0.40 0.018 220);
+  --color-secondary-800: oklch(0.32 0.015 220);
+  --color-secondary-900: oklch(0.25 0.012 220);
+  --color-secondary-950: oklch(0.18 0.008 220);
+
+  /* Accent - Gaming Purple/Magenta */
+  --color-accent-50: oklch(0.98 0.008 320);
+  --color-accent-100: oklch(0.95 0.020 320);
+  --color-accent-200: oklch(0.90 0.040 320);
+  --color-accent-300: oklch(0.82 0.065 320);
+  --color-accent-400: oklch(0.72 0.095 320);
+  --color-accent-500: oklch(0.65 0.120 320);
+  --color-accent-600: oklch(0.58 0.140 320);
+  --color-accent-700: oklch(0.50 0.135 320);
+  --color-accent-800: oklch(0.42 0.120 320);
+  --color-accent-900: oklch(0.35 0.100 320);
+  --color-accent-950: oklch(0.25 0.075 320);
+
+  /* Success - Gaming Green */
+  --color-success-50: oklch(0.98 0.008 140);
+  --color-success-100: oklch(0.95 0.020 140);
+  --color-success-200: oklch(0.90 0.040 140);
+  --color-success-300: oklch(0.82 0.065 140);
+  --color-success-400: oklch(0.72 0.095 140);
+  --color-success-500: oklch(0.65 0.120 140);
+  --color-success-600: oklch(0.58 0.140 140);
+  --color-success-700: oklch(0.50 0.135 140);
+  --color-success-800: oklch(0.42 0.120 140);
+  --color-success-900: oklch(0.35 0.100 140);
+  --color-success-950: oklch(0.25 0.075 140);
+
+  /* Warning - Gaming Orange */
+  --color-warning-50: oklch(0.98 0.008 65);
+  --color-warning-100: oklch(0.95 0.020 65);
+  --color-warning-200: oklch(0.90 0.040 65);
+  --color-warning-300: oklch(0.82 0.065 65);
+  --color-warning-400: oklch(0.72 0.095 65);
+  --color-warning-500: oklch(0.65 0.120 65);
+  --color-warning-600: oklch(0.58 0.140 65);
+  --color-warning-700: oklch(0.50 0.135 65);
+  --color-warning-800: oklch(0.42 0.120 65);
+  --color-warning-900: oklch(0.35 0.100 65);
+  --color-warning-950: oklch(0.25 0.075 65);
+
+  /* Error - Gaming Red */
+  --color-error-50: oklch(0.98 0.008 15);
+  --color-error-100: oklch(0.95 0.020 15);
+  --color-error-200: oklch(0.90 0.040 15);
+  --color-error-300: oklch(0.82 0.065 15);
+  --color-error-400: oklch(0.72 0.095 15);
+  --color-error-500: oklch(0.65 0.120 15);
+  --color-error-600: oklch(0.58 0.140 15);
+  --color-error-700: oklch(0.50 0.135 15);
+  --color-error-800: oklch(0.42 0.120 15);
+  --color-error-900: oklch(0.35 0.100 15);
+  --color-error-950: oklch(0.25 0.075 15);
+}

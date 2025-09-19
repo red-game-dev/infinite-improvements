@@ -1,0 +1,67 @@
+
+/* Minimalist animations - Japanese aesthetic */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.8s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.05) 20%,
+    rgba(255, 255, 255, 0.1) 40%,
+    rgba(255, 255, 255, 0.05) 60%,
+    transparent 80%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2.5s ease-in-out infinite;
+}
+
+/* Image loading shimmer effect */
+.shimmer {
+  background-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.2) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+
+/* Drawer transform origins */
+[data-position="right"] {
+  transform-origin: right center;
+}
+
+[data-position="left"] {
+  transform-origin: left center;
+}
+
+[data-position="top"] {
+  transform-origin: center top;
+}
+
+[data-position="bottom"] {
+  transform-origin: center bottom;
+}

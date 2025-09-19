@@ -1,0 +1,35 @@
+/* Base styles and theme configuration */
+
+/* Tailwind v4 dark mode configuration */
+@variant dark (&:is(.dark, .dark *));
+
+/* Dark mode color scheme */
+.dark {
+  color-scheme: dark;
+}
+
+/* Base dark mode styles - Gaming atmosphere */
+html.dark {
+  background-color: oklch(0.10 0.015 230);
+  color: oklch(0.95 0.005 220);
+}
+
+/* Ensure dark mode backgrounds work */
+.dark body {
+  background-color: oklch(0.10 0.015 230);
+}
+
+/* Smooth transitions - ma (negative space) principle */
+html {
+  transition: background-color 0.5s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  transition: background-color 0.5s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+  transition: background-color 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+              border-color 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+              color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
