@@ -137,7 +137,6 @@ By building custom components I got:
 ## Documentation
 
 - [Full Audit Report](AUDIT_REPORT.md) - All the details about what was fixed
-- [Component Guide](COMPONENT_EXTRACTION_GUIDE.md) - How components were built
 
 ## Repository
 
