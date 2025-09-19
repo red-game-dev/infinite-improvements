@@ -39,7 +39,20 @@ This single fix required:
 
 Now users understand it's a link-in-bio site immediately.
 
-![After](docs/upgraded_site.png)
+![After - Desktop](docs/upgraded_site.png)
+
+### Mobile Experience
+
+The site works perfectly on all devices with a native mobile experience:
+
+<div align="center">
+  <img src="docs/upgraded_site_mobile.png" alt="Mobile View" width="300" />
+  <img src="docs/upgraded_site_mobile_with_drawer.png" alt="Mobile Drawer" width="300" />
+</div>
+
+- **Responsive design** - Adapts to any screen size
+- **Touch-optimized** - Large tap targets and smooth scrolling
+- **Mobile drawer** - Clean navigation for small screens
 
 ## The Results
 
