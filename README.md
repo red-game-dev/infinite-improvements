@@ -1,5 +1,7 @@
 # Infinite Improvements - Profile Site Transformation
 
+🔗 **[Live Demo](https://infinite-improvements.vercel.app/)**
+
 ## The Problem
 
 **The old site was confusing.** Users didn't know what it was for because:
@@ -58,15 +60,17 @@ The site works perfectly on all devices with a native mobile experience:
 
 **Real Metrics from Lighthouse PDFs**
 
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| **Performance Score** | 62 | 96 | +55% |
-| **First Contentful Paint** | 0.8s | 0.3s | -63% |
-| **Largest Contentful Paint** | 3.8s | 1.3s | -66% |
-| **Total Blocking Time** | 280ms | 0ms | -100% |
-| **Speed Index** | 2.6s | 0.8s | -69% |
-| **Accessibility** | 98 | 100 | Perfect |
-| **JavaScript Size** | ~1MB (MUI) | ~760KB | -24% |
+| Metric | Before | After (Local) | After (Deployed) | Change |
+|--------|--------|---------------|------------------|--------|
+| **Performance Score** | 62 | 96 | 100 (Desktop) / 99 (Mobile) | +61% |
+| **First Contentful Paint** | 0.8s | 0.3s | 0.2s | -75% |
+| **Largest Contentful Paint** | 3.8s | 1.3s | 0.5s | -87% |
+| **Total Blocking Time** | 280ms | 0ms | 0ms | -100% |
+| **Speed Index** | 2.6s | 0.8s | 0.5s | -81% |
+| **Accessibility** | 98 | 100 | 100 | Perfect |
+| **JavaScript Size** | ~1MB (MUI) | ~760KB | ~760KB | -24% |
+
+*Deployed metrics from [Desktop](docs/lighthouse/after-optimization-deployed-desktop.pdf) and [Mobile](docs/lighthouse/after-optimization-deployed-mobile.pdf) Lighthouse reports*
 
 ## How to Run
 
