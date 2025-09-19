@@ -1,0 +1,145 @@
+{
+  "app": {
+    "title": "Alex Roa",
+    "description": "Entrepreneur, Investor, Builder - Connect with me"
+  },
+  "common": {
+    "loading": "Loading...",
+    "loadingContent": "Loading content...",
+    "pleaseWait": "Please wait..."
+  },
+  "navigation": {
+    "skipToMain": "Skip to main content"
+  },
+  "header": {
+    "logo": "BLITZ",
+    "backToBlitz": "BACK TO BLITZ",
+    "menu": "Menu",
+    "navigation": {
+      "me": "ME",
+      "create": "CREATE",
+      "collaborate": "COLLABORATE",
+      "solutions": "SOLUTIONS"
+    }
+  },
+  "profile": {
+    "shareProfile": "Share Profile",
+    "shareProfileSuccess": "Profile link copied to clipboard!",
+    "shareProfileSuccessTitle": "Ready to share",
+    "shareProfileError": "Failed to share profile link",
+    "shareProfileErrorTitle": "Share failed",
+    "visitProfile": "Visit {{platform}} profile",
+    "loadingProfile": "Loading profile",
+    "unableToLoadProfile": "Unable to load profile"
+  },
+  "links": {
+    "shareLink": "Share link",
+    "shareLinkSuccess": "Link copied to clipboard!",
+    "shareLinkError": "Failed to share link",
+    "shareLinkErrorTitle": "Share failed",
+    "profileLinks": "Profile links",
+    "openInNewTab": "Open in new tab",
+    "shareVia": "Share via {{platform}}",
+    "copyLink": "Copy link",
+    "emptyTitle": "No links available",
+    "emptyDescription": "Links will appear here once they are added."
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "currentTheme": "Current theme: {{theme}}. Press Enter or Space to toggle",
+    "themeDescription": "Theme: {{theme}} (resolved: {{resolved}})",
+    "loadingTheme": "Loading theme toggle",
+    "switchTo": "Switch to {{mode}} mode"
+  },
+  "debug": {
+    "panel": "Debug Panel",
+    "devOnly": "(Dev Only)",
+    "openPanel": "Open debug panel",
+    "closePanel": "Close debug panel",
+    "shortcut": "Ctrl+Shift+D",
+    "triggerError": "Trigger Error Boundary",
+    "reloadPage": "Reload Page",
+    "clearStorage": "Clear Storage",
+    "clearCache": "Clear Cache",
+    "testToast": "Test Toast",
+    "toastTestSuccess": "Toast test successful!",
+    "environment": {
+      "nodeEnv": "Node Env",
+      "client": "Client",
+      "theme": "Theme",
+      "yes": "Yes",
+      "no": "No",
+      "dark": "Dark",
+      "light": "Light"
+    },
+    "intentionalError": "Debug Error: Intentionally thrown for testing ErrorBoundary"
+  },
+  "error": {
+    "boundary": {
+      "title": "Oops! Something went wrong",
+      "defaultMessage": "An unexpected error occurred. Please try refreshing the page.",
+      "tryAgain": "Try Again",
+      "errorDetails": "Error Details"
+    },
+    "state": {
+      "retry": "Try again"
+    }
+  },
+  "loading": {
+    "pleaseWait": "Please wait...",
+    "loadingContent": "Loading content...",
+    "preparingContent": "Preparing your content"
+  },
+  "toast": {
+    "dismiss": "Dismiss notification"
+  },
+  "footer": {
+    "copyright": "© {{year}} {{name}}. All rights reserved.",
+    "builtWith": "Built with",
+    "and": "and"
+  },
+  "common": {
+    "loading": "Loading",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "open": "Open",
+    "share": "Share",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "download": "Download",
+    "upload": "Upload"
+  },
+  "empty": {
+    "defaultTitle": "No content available",
+    "defaultDescription": "There's nothing to display at the moment.",
+    "noData": "No data found",
+    "noResults": "No results found",
+    "tryAgain": "Try again later",
+    "addNew": "Add new item"
+  },
+  "seo": {
+    "defaultTitle": "Alex Roa - Entrepreneur, Investor, Builder",
+    "defaultDescription": "Connect with Alex Roa. Discover all important links, projects, and ventures in one place. Entrepreneur, investor, and builder focused on innovative solutions.",
+    "siteName": "Alex Roa",
+    "profileTitle": "{{name}} - Links & Profile",
+    "profileDescription": "Connect with {{name}}. Find all important links, social profiles, and projects in one place.",
+    "keywords": {
+      "default": ["entrepreneur", "investor", "builder", "startup", "venture capital", "innovation", "technology", "business"],
+      "profile": ["profile", "links", "social media", "contact", "portfolio", "bio link", "link in bio"]
+    },
+    "og": {
+      "title": "Alex Roa - Connect & Collaborate",
+      "description": "Entrepreneur and investor building the future. Connect with me across all platforms.",
+      "imageAlt": "Alex Roa Profile"
+    },
+    "twitter": {
+      "title": "Alex Roa",
+      "description": "Entrepreneur, Investor, Builder. Building innovative solutions and investing in the future."
+    }
+  }
+}
