@@ -1,2 +1,3 @@
-export { default as ImageCard } from './ImageCard';
-export { default as ImageGallery } from './ImageGallery';
+export * from './primitives';
+export * from './features';
+export * from './pages';
