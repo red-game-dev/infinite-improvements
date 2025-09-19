@@ -1,0 +1,57 @@
+{
+  "name": "Alex Roa",
+  "bio": "Entrepreneur • Investor • Builder",
+  "avatar": {
+    "url": "https://storage.googleapis.com/blitzccmc.appspot.com/1/IMG_3206.JPG",
+    "alt": "Alex Roa",
+    "width": 400,
+    "height": 400
+  },
+  "theme": {
+    "mode": "auto"
+  },
+  "socialLinks": [
+    {
+      "id": "1",
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/thealexroa",
+      "username": "thealexroa"
+    },
+    {
+      "id": "2",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/thealexroa",
+      "username": "thealexroa"
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "type": "standard",
+      "title": "🚀 Roa Ventures",
+      "url": "https://www.roa.ventures/",
+      "metadata": {
+        "description": "Venture capital and investments",
+        "priority": 1,
+        "createdAt": "2024-01-01T00:00:00Z",
+        "viewCount": 5420
+      }
+    },
+    {
+      "id": "link-2",
+      "type": "image_tile",
+      "title": "💌 Sex, Love, Money",
+      "url": "https://sexlovemoney.substack.com/",
+      "thumbnail": {
+        "url": "https://storage.googleapis.com/blitzccmc.appspot.com/1/image%20%281%29.png",
+        "alt": "Sex, Love, Money Newsletter"
+      },
+      "metadata": {
+        "description": "Insights on life, relationships, and business",
+        "priority": 2,
+        "createdAt": "2024-01-15T00:00:00Z",
+        "viewCount": 8930
+      }
+    }
+  ]
+}
