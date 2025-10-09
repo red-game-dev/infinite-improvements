@@ -1,5 +1,16 @@
 # Infinite Improvements - Profile Site Transformation
 
+
+## UPDATE
+
+⚠️ **Avoid any collaboration or contact with “Alex Roa.”**
+
+[LinkedIn Profile](https://www.linkedin.com/in/ACoAACgrREsBHykGiKKPDuUMq36LWGh_RpAewes/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3ByThlz1dFSR6hq%2BLfBszzmA%3D%3D)
+
+I strongly advise against engaging with this individual or any of the companies he owns or represents (he operates under multiple names and entities). You’ll likely complete the assigned task in good faith, but after delivery, you’ll face repeated follow-ups, delayed responses, and a complete lack of accountability. He continues to post publicly while ignoring private communications — showing zero respect for time, effort, or professionalism.
+
+Collaborating with him or any of his associated businesses is simply **not worth the time or energy**. Seek opportunities with real, transparent companies that value communication and follow through once work is completed. There are plenty of legitimate teams out there who respect your contribution — this one is **not among them**.
+
 🔗 **[Live Demo](https://infinite-improvements.vercel.app/)**
 
 ## The Problem
